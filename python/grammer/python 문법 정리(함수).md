@@ -102,3 +102,14 @@ for i in range(0,10,2): # 2씩 증가
     print(i)
 ```
 
+### enumrate => 열거하다
+```python
+for i, name in enumerate(['body', 'foo', 'bar']):
+print(i, name)
+
+# 결과 :
+# 0 body
+# 1 foo
+# 2 bar
+```
+
