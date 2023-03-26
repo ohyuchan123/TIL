@@ -9,9 +9,12 @@ mkdir 폴더명 #폴더 생성
 ```
 
 **vscode에서**
-ctrl + `를 눌러 터미널을 연다.</br>
-다음과 같이 입력한다.</br>
-`python -m  venv jangovenv`</br>
+ctrl + `를 눌러 터미널을 연다.
+
+다음과 같이 입력한다.  
+
+`python -m  venv jangovenv`
+
 jangovenv는 생성할 가상환경 폴더명이다.
 
 **django 설치 및 서버 실행**
@@ -19,6 +22,9 @@ f1을 누르고 Select Interpreter을 누르고 생성했던 가상환경 폴더
 </br>
 
 `python -m pip install django`
+
 `django-admin startproject config .`
+
 `cd firstPj`
+
 `python manage.py runserver`
