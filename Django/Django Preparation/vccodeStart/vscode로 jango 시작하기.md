@@ -25,6 +25,4 @@ f1을 누르고 Select Interpreter을 누르고 생성했던 가상환경 폴더
 
 `django-admin startproject config .`
 
-`cd firstPj`
-
 `python manage.py runserver`
