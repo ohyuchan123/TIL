@@ -1,0 +1,31 @@
+# 리눅스 명령어를 정리하였습니다.
+
+**목차**
+- 파일 시스템 탐색을 위한 리눅스 명령어
+    - pwd
+    - ls
+    - cd
+    - mkdir
+    - rmdir
+    - lsblk
+    - mount
+    - df
+- 시스템 조작을 위한 리눅스 명령어
+    - unmae
+    - ps
+    - kill
+    - service
+    - batch
+    - shutdown
+- 파일 관리를 위한 리눅스 명령어
+    - touch
+    - cat
+    - head
+    - tail
+    - cp
+    - mv
+    - comm
+    - less
+    - ln
+    - cmp
+    - alias
