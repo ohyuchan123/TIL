@@ -14,6 +14,8 @@ TIL은 `Today I Learned`의 약어입니다. 번역하면 `오늘 내가 배운 
 - <a href="https://github.com/ohyuchan123/TIL/blob/main/Django/Django%20Preparation/%EC%9E%A5%EA%B3%A0%20%EC%A4%80%EB%B9%84%EA%B3%BC%EC%A0%95.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0">장고 개발환경 준비</a>
 - <a href="https://github.com/ohyuchan123/TIL/blob/main/Django/%EA%B0%81%20%ED%8C%8C%EC%9D%BC%EB%93%A4%20%EC%97%AD%ED%95%A0.md#%EA%B0%81-%ED%8C%8C%EC%9D%BC%EB%93%A4%EC%9D%98-%EC%97%AD%ED%95%A0%EC%9D%84-%EC%A0%95%EB%A6%AC%ED%95%98%EC%98%80%EC%8A%B5%EB%8B%88%EB%8B%A4">각 파일들의 역할</a>
 - <a href="https://github.com/ohyuchan123/TIL/tree/main/Django/concept">개념</a>
+- <a href="https://github.com/ohyuchan123/Blog">블로그 클론코딩</a>
+
 
 ## Programming Language
 ### Python
