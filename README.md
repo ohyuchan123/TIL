@@ -8,7 +8,7 @@ TIL은 `Today I Learned`의 약어입니다. 번역하면 `오늘 내가 배운 
 
 ## Backend
 ### Server
-- <a href="#">서버란?</a>
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/server/%EC%84%9C%EB%B2%84%EB%9E%80.md#1-%EC%84%9C%EB%B2%84server%EB%9E%80">서버란?</a>
 - <a href="#">CRUD</a>
 - <a href="#">REST API</a>
 - <a href="#">MVC</a>
@@ -22,7 +22,7 @@ TIL은 `Today I Learned`의 약어입니다. 번역하면 `오늘 내가 배운 
 - <a href="https://github.com/ohyuchan123/TIL/tree/main/Django/concept">개념</a>
 - <a href="https://github.com/ohyuchan123/Blog">블로그 클론코딩</a>
 
-## Programming Language
+## Language
 ### Python
 - <a href="https://github.com/ohyuchan123/TIL/blob/main/python/grammer/Python%20%EB%AC%B8%EB%B2%95%20%EC%A0%95%EB%A6%AC(%EC%9E%90%EB%A3%8C%ED%98%95_1).md#python-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC">문법 정리_1 변수~리스트</a>
 - <a href="https://github.com/ohyuchan123/TIL/blob/main/python/grammer/Python%20%EB%AC%B8%EB%B2%95%20%EC%A0%95%EB%A6%AC(%EC%9E%90%EB%A3%8C%ED%98%95_2).md#python-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC">문법 정리_2 튜플~자료형</a>
@@ -30,6 +30,8 @@ TIL은 `Today I Learned`의 약어입니다. 번역하면 `오늘 내가 배운 
 - <a href="https://github.com/ohyuchan123/TIL/blob/main/python/grammer/python%20%EB%AC%B8%EB%B2%95%20%EC%A0%95%EB%A6%AC(%ED%95%A8%EC%88%98).md#%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%9E%90%EC%A3%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%82%B4%EC%9E%A5-%ED%95%A8%EC%88%98%EB%93%A4%EC%9D%84-%EC%A0%95%EB%A6%AC%ED%95%98%EC%98%80%EC%8A%B5%EB%8B%88%EB%8B%A4">문법 정리_4 기본적인 함수 정리</a>
 - <a href="https://github.com/ohyuchan123/python_grammer">라이브러리 정리</a>
 - <a href="https://github.com/ohyuchan123/TIL/tree/main/python/grammer/%EC%83%88%EB%A1%9C%20%EC%95%8C%EA%B2%8C%20%EB%90%9C%20%EB%AC%B8%EB%B2%95">공부하면서 새로 알게된문법 정리</a>  
+</br>
+
 ** tistory **  
 - <a href="https://ace-yc.tistory.com/4">변수</a>
 - <a href="https://ace-yc.tistory.com/5">제어문-if</a>
@@ -39,6 +41,13 @@ TIL은 `Today I Learned`의 약어입니다. 번역하면 `오늘 내가 배운 
 ### Java
 ### Kotlin
 ### C
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/c/C%EC%96%B8%EC%96%B4%EC%9D%98%20%EA%B8%B0%EC%B4%88%20%EB%AC%B8%EB%B2%95.md#c%EC%96%B8%EC%96%B4%EC%9D%98-%EA%B8%B0%EC%B4%88-%EB%AC%B8%EB%B2%95">문법 정리</a>
 
 ## OS
 - <a href="https://github.com/ohyuchan123/TIL/blob/main/linux/Novice/command.md#%EB%A6%AC%EB%88%85%EC%8A%A4-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC">Linux 명령어 정리</a>
+
+## Knowledge
+- <a href="#">자료구조</a>
+- <a href="#">알고리즘</a>
+- <a href="#">디자인 패턴</a>
+- <a href="#">HTTP 기본지식</a>
