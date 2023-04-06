@@ -14,6 +14,8 @@ TIL은 `Today I Learned`의 약어입니다. 번역하면 `오늘 내가 배운 
 - <a href="#">MVC</a>
 
 ### Spring
+#### JPA
+#### Spring boot
 ### Django
 - <a href="https://github.com/ohyuchan123/TIL/blob/main/Django/concept/%EC%9E%A5%EA%B3%A0%EB%9E%80.md#%EC%9E%A5%EA%B3%A0%EB%8A%94-%EC%9B%B9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%84-%EC%89%BD%EA%B3%A0-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4-%EC%A3%BC%EB%8A%94-%EC%9B%B9-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EB%8B%A4">장고란 ?</a>
 - <a href="https://www.djangoproject.com/">공식문서</a>
@@ -51,3 +53,16 @@ TIL은 `Today I Learned`의 약어입니다. 번역하면 `오늘 내가 배운 
 - <a href="#">알고리즘</a>
 - <a href="#">디자인 패턴</a>
 - <a href="#">HTTP 기본지식</a>
+- <a href="#">동기와 비동기</a>
+- <a href="#">라이브러리와 프레임워크의 차이</a>
+
+## DB 이론
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/DBMS/%F0%9F%93%9A%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B8%B0%EC%B4%88%20%EA%B0%9C%EB%85%90.md#%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B8%B0%EC%B4%88-%EA%B0%9C%EB%85%90">데이터베이스 기초 개념</a>
+- <a href="#">데이터베이 모델 🖥 정리</a>
+- <a href="#">스키마(Schema) 개념</a>
+- <a href="#">테이블 용어 🖥 정리</a>
+- <a href="#">데이터베이스(Key) 종류 🖥 정리</a>
+- <a href="#">무결성 제약 조건 🖥 정리</a>
+- <a href="#">관계대수 & 관계해석 정리
+- <a href="#">데이터 모델링 개념 & ERD 다이어그램 작성</a>
+- <a href="#">정규화 & 역정규화 기법</a>
