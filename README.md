@@ -49,6 +49,14 @@ TIL은 `Today I Learned`의 약어입니다. 번역하면 `오늘 내가 배운 
 - <a href="https://github.com/ohyuchan123/TIL/blob/main/linux/Novice/command.md#%EB%A6%AC%EB%88%85%EC%8A%A4-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC">Linux 명령어 정리</a>
 
 ## Knowledge
+### Object
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/Object/%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%B4%EB%9E%80.md#%EA%B0%B9%EC%B1%84-%EC%A7%80%ED%96%A5object-oriented-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%B4%EB%9E%80">객체 지향 프로그래밍이란?</a>
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/Object/%EA%B0%9D%EC%B2%B4%EA%B4%80%EC%9D%98%20%EA%B4%80%EA%B3%84.md#%EA%B0%9D%EC%B2%B4-%EA%B0%84%EC%9D%98-%EA%B4%80%EA%B3%84">객체 간의 관계</a>
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/Object/%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98%20%ED%8A%B9%EC%A7%95.md#%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%ED%8A%B9%EC%A7%95">객체 지향 프로그래밍의 특징</a>
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/Object/%EC%A0%88%EC%B0%A8%EC%A7%80%ED%96%A5%EA%B3%BC%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.md#%EC%A0%88%EC%B0%A8-%EC%A7%80%ED%96%A5%EA%B3%BC-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5">절차 지향과 객체 지향</a>
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/Object/%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98%20%EC%9E%A5%EB%8B%A8%EC%A0%90.md#%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%EC%9E%A5%EB%8B%A8%EC%A0%90">객체 지향 프로그래밍의 장단점</a>
+
+### Knowledge
 - <a href="#">자료구조</a>
 - <a href="#">알고리즘</a>
 - <a href="#">디자인 패턴</a>
