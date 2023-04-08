@@ -56,13 +56,23 @@ TIL은 `Today I Learned`의 약어입니다. 번역하면 `오늘 내가 배운 
 - <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/Object/%EC%A0%88%EC%B0%A8%EC%A7%80%ED%96%A5%EA%B3%BC%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.md#%EC%A0%88%EC%B0%A8-%EC%A7%80%ED%96%A5%EA%B3%BC-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5">절차 지향과 객체 지향</a>
 - <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/Object/%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98%20%EC%9E%A5%EB%8B%A8%EC%A0%90.md#%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%EC%9E%A5%EB%8B%A8%EC%A0%90">객체 지향 프로그래밍의 장단점</a>
 
+### Library & Framework
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/Library%20%26%20Framework/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EC%99%80%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md#%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%ACframework%EC%99%80-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AClibrary%EC%9D%98-%EC%B0%A8%EC%9D%B4">프레임워크와 라이브러리 차이</a>
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/Library%20%26%20Framework/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%96%B8%EC%96%B4%EB%B3%84%20%EC%9C%A0%EC%9A%A9%ED%95%9C%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md#%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%96%B8%EC%96%B4%EB%B3%84-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC">프로그래밍 언어별 유용한 라이브러리</a>
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/Library%20%26%20Framework/%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4.md#%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4%EB%9E%80">라이선스</a>
+
+### Dictionary
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/Dictionary/%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC%20%EC%9E%90%EB%A3%8C%ED%98%95.md#%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC%EB%9E%80">딕셔너리란?</a>
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/Dictionary/%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC%EB%8A%94%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EB%A7%8C%EB%93%A4%EA%B9%8C.md#%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EA%B9%8C">딕셔너리는 어떻게 만들까?</a>
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/Dictionary/%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95.md#%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95">딕셔너리를 사용하는 </a>
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/Dictionary/%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%ED%95%A8%EC%88%98%EB%93%A4.md#%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC-%EA%B4%80%EB%A0%A8-%ED%95%A8%EC%88%98%EB%93%A4">딕셔너리 관련 </a>
+
 ### Knowledge
 - <a href="#">자료구조</a>
 - <a href="#">알고리즘</a>
 - <a href="#">디자인 패턴</a>
 - <a href="#">HTTP 기본지식</a>
 - <a href="#">동기와 비동기</a>
-- <a href="#">라이브러리와 프레임워크의 차이</a>
 
 ## DB 이론
 - <a href="https://github.com/ohyuchan123/TIL/blob/main/DBMS/%F0%9F%93%9A%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B8%B0%EC%B4%88%20%EA%B0%9C%EB%85%90.md#%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B8%B0%EC%B4%88-%EA%B0%9C%EB%85%90">데이터베이스 기초 개념</a>
