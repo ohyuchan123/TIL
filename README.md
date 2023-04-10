@@ -41,6 +41,9 @@ TIL은 `Today I Learned`의 약어입니다. 번역하면 `오늘 내가 배운 
 - <a href="https://ace-yc.tistory.com/7">제어문-for</a>
 - <a href="https://github.com/ohyuchan123/python_grammer#python_grammer">모듈 정리</a>
 ### Java
+- <a href="https://github.com/ohyuchan123/java-grammer">Java 문법</a>
+- <a href="https://github.com/ohyuchan123/Java_Grammer">Java 문법</a>
+
 ### Kotlin
 ### C
 - <a href="https://github.com/ohyuchan123/TIL/blob/main/c/C%EC%96%B8%EC%96%B4%EC%9D%98%20%EA%B8%B0%EC%B4%88%20%EB%AC%B8%EB%B2%95.md#c%EC%96%B8%EC%96%B4%EC%9D%98-%EA%B8%B0%EC%B4%88-%EB%AC%B8%EB%B2%95">문법 정리</a>
