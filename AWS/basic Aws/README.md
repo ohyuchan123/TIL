@@ -1,1 +1,23 @@
 # AWS에 대한 기본적인 지식에 대해서 정리하였습니다.
+
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/AWS/basic%20Aws/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EC%BB%B4%ED%93%A8%ED%8C%85%EC%9D%B4%EB%9E%80.md#%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85">클라우드 컴퓨팅이란</a>
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/AWS/basic%20Aws/AWS%20%EA%B5%AC%EC%A1%B0.md#aws-%EC%86%8C%EA%B0%9C">AWS 소개</a>
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/AWS/basic%20Aws/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EC%BB%B4%ED%93%A8%ED%8C%85%EC%9D%98%20%EC%A2%85%EB%A5%98.md#%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85%EC%9D%98-%EC%A2%85%EB%A5%98">클라우드 컴퓨팅의 종류</a>
+- <a href="#">AWS의 구조</a>
+- <a href="#">IAM 기초</a>
+- <a href="#">가상화란?</a>
+- <a href="#">EC2(1)</a>
+- <a href="#">EC2(2)</a>
+- <a href="#">EC2(3)</a>
+- <a href="#">EC2(4)</a>
+- <a href="#">EC2(5)</a>
+- <a href="#">EC2 Autoscaling</a>
+- <a href="#">Elastic Load Balancer</a>
+- <a href="#">Elastic file System</a>
+- <a href="#">EC2 Autoscaling</a>
+- <a href="#">사설 IP & NAT & CIDR</a>
+- <a href="#">보안 그룹과 NACL</a>
+- <a href="#">NAT Gateway & Bastion Host</a>
+- <a href="#">VPC 생성 실습</a>
+- <a href="#">Amazon S3</a>
+- <a href="#">Amazon S3 Storage Class</a>
