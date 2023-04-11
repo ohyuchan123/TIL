@@ -9,9 +9,11 @@ TIL은 `Today I Learned`의 약어입니다. 번역하면 `오늘 내가 배운 
 ## Backend
 ### Server
 - <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/server/%EC%84%9C%EB%B2%84%EB%9E%80.md#1-%EC%84%9C%EB%B2%84server%EB%9E%80">서버란?</a>
-- <a href="#">CRUD</a>
+
+### Knowledge
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/server/CRUD.md#crud">CRUD</a>
 - <a href="#">REST API</a>
-- <a href="#">MVC</a>
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/Design%20Patterns/MVC%20%ED%8C%A8%ED%84%B4.md#mvc-%ED%8C%A8%ED%84%B4%EC%9D%B4%EB%9E%80">MVC</a>
 
 ### Spring
 #### JPA
@@ -72,10 +74,16 @@ TIL은 `Today I Learned`의 약어입니다. 번역하면 `오늘 내가 배운 
 - <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/Dictionary/%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95.md#%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95">딕셔너리를 사용하는 </a>
 - <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/Dictionary/%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%ED%95%A8%EC%88%98%EB%93%A4.md#%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC-%EA%B4%80%EB%A0%A8-%ED%95%A8%EC%88%98%EB%93%A4">딕셔너리 관련 </a>
 
+### Design pattern
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/Design%20Patterns/MVC%20%ED%8C%A8%ED%84%B4.md#mvc-%ED%8C%A8%ED%84%B4%EC%9D%B4%EB%9E%80">MVC</a>
+
+# web 지식
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/web%20%EC%A7%80%EC%8B%9D/cors%EB%9E%80.md#cors%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80">Cors란?</a>
+
+
 ### Knowledge
 - <a href="#">자료구조</a>
 - <a href="#">알고리즘</a>
-- <a href="#">디자인 패턴</a>
 - <a href="#">HTTP 기본지식</a>
 - <a href="#">동기와 비동기</a>
 
