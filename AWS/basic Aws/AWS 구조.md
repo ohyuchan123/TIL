@@ -145,3 +145,5 @@ arn:partition:service:region:account-id:resource-type:resource-id
 
 <span style="color:#FF0000">resource-id</span>  
     리소스 식별자입니다. 리소스의 이름, 리소스의 ID 또는 리소스  경로입니다. 일부 리소스 식별자에는 상위 리소스(sub-resource-type/  parent-resource/sub-resource) 또는 버전과 같은 식별자(resource-type:resource-name:qualifier)를 포함할 수 있습니다.  
+
+
