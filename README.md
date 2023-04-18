@@ -19,6 +19,9 @@ TIL은 `Today I Learned`의 약어입니다. 번역하면 `오늘 내가 배운 
 #### JPA
 #### Spring boot
 ### Django
+#### Study
+- <a href="https://github.com/ohyuchan123/DRF-tutorial#drf-tutorial">Django Rest Framework</a>
+#### Concept
 - <a href="https://github.com/ohyuchan123/TIL/blob/main/Django/concept/%EC%9E%A5%EA%B3%A0%EB%9E%80.md#%EC%9E%A5%EA%B3%A0%EB%8A%94-%EC%9B%B9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%84-%EC%89%BD%EA%B3%A0-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4-%EC%A3%BC%EB%8A%94-%EC%9B%B9-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EB%8B%A4">장고란 ?</a>
 - <a href="https://www.djangoproject.com/">공식문서</a>
 - <a href="https://github.com/ohyuchan123/TIL/blob/main/Django/Django%20Preparation/%EC%9E%A5%EA%B3%A0%20%EC%A4%80%EB%B9%84%EA%B3%BC%EC%A0%95.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0">장고 개발환경 준비</a>
@@ -108,3 +111,6 @@ TIL은 `Today I Learned`의 약어입니다. 번역하면 `오늘 내가 배운 
 
 ### Coding Test
 - <a href="https://github.com/ohyuchan123/Coding_Test#coding_test">Coding Test</a>
+
+### AWS
+- <a href="https://github.com/ohyuchan123/TIL/tree/main/AWS/basic%20Aws#aws%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-%EC%A7%80%EC%8B%9D%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%A0%95%EB%A6%AC%ED%95%98%EC%98%80%EC%8A%B5%EB%8B%88%EB%8B%A4">AWS 기본지식</a>
