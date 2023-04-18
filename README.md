@@ -14,10 +14,11 @@ TIL은 `Today I Learned`의 약어입니다. 번역하면 `오늘 내가 배운 
 - <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/server/CRUD.md#crud">CRUD</a>
 - <a href="#">REST API</a>
 - <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/Design%20Patterns/MVC%20%ED%8C%A8%ED%84%B4.md#mvc-%ED%8C%A8%ED%84%B4%EC%9D%B4%EB%9E%80">MVC</a>
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/server/REST%20API%EB%9E%80%20REST%2C%20RESTful%EC%9D%B4%EB%9E%80.md#rest%EB%9E%80">REST, REST API, RESTful</a>
 
 ### Spring
-#### JPA
-#### Spring boot
+### JPA
+### Spring boot
 ### Django
 #### Study
 - <a href="https://github.com/ohyuchan123/DRF-tutorial#drf-tutorial">Django Rest Framework</a>
@@ -91,23 +92,8 @@ TIL은 `Today I Learned`의 약어입니다. 번역하면 `오늘 내가 배운 
 ### web 지식
 - <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/web%20%EC%A7%80%EC%8B%9D/cors%EB%9E%80.md#cors%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80">Cors란?</a>
 
-
-### Knowledge
-- <a href="#">자료구조</a>
-- <a href="#">알고리즘</a>
-- <a href="#">HTTP 기본지식</a>
-- <a href="#">동기와 비동기</a>
-
 ### DB 이론
 - <a href="https://github.com/ohyuchan123/TIL/blob/main/DBMS/%F0%9F%93%9A%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B8%B0%EC%B4%88%20%EA%B0%9C%EB%85%90.md#%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B8%B0%EC%B4%88-%EA%B0%9C%EB%85%90">데이터베이스 기초 개념</a>
-- <a href="#">데이터베이 모델 🖥 정리</a>
-- <a href="#">스키마(Schema) 개념</a>
-- <a href="#">테이블 용어 🖥 정리</a>
-- <a href="#">데이터베이스(Key) 종류 🖥 정리</a>
-- <a href="#">무결성 제약 조건 🖥 정리</a>
-- <a href="#">관계대수 & 관계해석 정리
-- <a href="#">데이터 모델링 개념 & ERD 다이어그램 작성</a>
-- <a href="#">정규화 & 역정규화 기법</a>
 
 ### Coding Test
 - <a href="https://github.com/ohyuchan123/Coding_Test#coding_test">Coding Test</a>
