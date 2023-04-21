@@ -112,15 +112,26 @@ TIL은 `Today I Learned`의 약어입니다. 번역하면 `오늘 내가 배운 
 - <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/web%20%EC%A7%80%EC%8B%9D/cors%EB%9E%80.md#cors%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80">CORS</a>
 - <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/web%20%EC%A7%80%EC%8B%9D/%EC%9D%B8%ED%84%B0%EB%84%B7%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%86%B5%EC%8B%A0%20%EA%B8%B0%EC%B4%88.md#-%EC%9D%B8%ED%84%B0%EB%84%B7-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0-%EA%B8%B0%EC%B4%88">인터넷 네트워크 통신 기초(IP/TCP/UDP/PORT/DNS)</a>
 
-**HTTP 지식**
-**Network 지식**
-**CS 지식**
+**HTTP 지식**  
+**Network 지식**  
+**CS 지식**  
 **IT 용여 지식**
 - <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/Library%20%26%20Framework/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EC%99%80%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md#%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%ACframework%EC%99%80-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AClibrary%EC%9D%98-%EC%B0%A8%EC%9D%B4">프레임워크와 라이브러리의 차이</a>
 - <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/Library%20%26%20Framework/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%96%B8%EC%96%B4%EB%B3%84%20%EC%9C%A0%EC%9A%A9%ED%95%9C%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md#%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%96%B8%EC%96%B4%EB%B3%84-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC">프로그래밍 별 유용한 라이브러리</a>
 - <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/Library%20%26%20Framework/%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4.md#%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4%EB%9E%80">라이선스</a>
 - <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/web%20%EC%A7%80%EC%8B%9D/CRUD.md#crud">CRUD</a>
 - <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/web%20%EC%A7%80%EC%8B%9D/REST%20API%EB%9E%80%20REST%2C%20RESTful%EC%9D%B4%EB%9E%80.md#rest%EB%9E%80">REST, REST API, RESTful</a>
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/%EC%9A%A9%EC%96%B4%20%EC%A0%95%EB%A6%AC/IT%20%EC%9A%A9%EC%96%B4%20%EC%A0%95%EB%A6%AC.md#%EC%BD%94%EB%93%9C%EB%A5%BC-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%ED%95%98%EB%9D%BC">코드를 리팩토링 하라</a>
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/%EC%9A%A9%EC%96%B4%20%EC%A0%95%EB%A6%AC/IT%20%EC%9A%A9%EC%96%B4%20%EC%A0%95%EB%A6%AC.md#%EC%9A%94%EC%B2%ADrequest%EA%B3%BC-%EC%9D%91%EB%8B%B5response">요청(Request)와 응답(Response)</a>
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/%EC%9A%A9%EC%96%B4%20%EC%A0%95%EB%A6%AC/IT%20%EC%9A%A9%EC%96%B4%20%EC%A0%95%EB%A6%AC.md#%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%B4-%EB%90%9C-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80">플랫폼이 된 브라우저</a>
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/%EC%9A%A9%EC%96%B4%20%EC%A0%95%EB%A6%AC/IT%20%EC%9A%A9%EC%96%B4%20%EC%A0%95%EB%A6%AC.md#%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80-mvcmodel---view---controller">자바스크립트와 MVC(Model - View - Controller)
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/%EC%9A%A9%EC%96%B4%20%EC%A0%95%EB%A6%AC/IT%20%EC%9A%A9%EC%96%B4%20%EC%A0%95%EB%A6%AC.md#%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80-mvcmodel---view---controller">URI,URL,URN</a>
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/%EC%9A%A9%EC%96%B4%20%EC%A0%95%EB%A6%AC/IT%20%EC%9A%A9%EC%96%B4%20%EC%A0%95%EB%A6%AC.md#%EC%BB%B4%ED%8C%8C%EC%9D%BCcompile">컴파일(Compile)</a>
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/%EC%9A%A9%EC%96%B4%20%EC%A0%95%EB%A6%AC/IT%20%EC%9A%A9%EC%96%B4%20%EC%A0%95%EB%A6%AC.md#phppersonal-homepage-tools-professional-hypertext-preprocessor">PHP</a>
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/%EC%9A%A9%EC%96%B4%20%EC%A0%95%EB%A6%AC/IT%20%EC%9A%A9%EC%96%B4%20%EC%A0%95%EB%A6%AC.md#phppersonal-homepage-tools-professional-hypertext-preprocessor">JSP</a>
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/%EC%9A%A9%EC%96%B4%20%EC%A0%95%EB%A6%AC/IT%20%EC%9A%A9%EC%96%B4%20%EC%A0%95%EB%A6%AC.md#%EC%84%9C%EB%B2%84%EC%B8%A1-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-vs-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EC%B8%A1-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8">서버 측 스크립트 vs 클라이언트 측 스크립트</a>
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/%EC%9A%A9%EC%96%B4%20%EC%A0%95%EB%A6%AC/IT%20%EC%9A%A9%EC%96%B4%20%EC%A0%95%EB%A6%AC.md#%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%ED%85%9C%ED%94%8C%EB%A6%BFtemplate">프로그래밍의 템플릿(Template)</a>
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/%EC%9A%A9%EC%96%B4%20%EC%A0%95%EB%A6%AC/IT%20%EC%9A%A9%EC%96%B4%20%EC%A0%95%EB%A6%AC.md#%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%ED%85%9C%ED%94%8C%EB%A6%BFtemplate">쿼리(query)</a>
 
 ## OS
 **Linux**
@@ -136,4 +147,6 @@ TIL은 `Today I Learned`의 약어입니다. 번역하면 `오늘 내가 배운 
 - <a href="https://github.com/ohyuchan123/TIL/blob/main/AWS/basic%20Aws/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EC%BB%B4%ED%93%A8%ED%8C%85%EC%9D%B4%EB%9E%80.md#%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85">클라우드 컴퓨팅</a>
 
 ## Management
-- <a href="https://github.com/ohyuchan123/github-directions#github-issue">Git</a>
+**Github**
+- <a href="https://github.com/ohyuchan123/github-directions#github-issue">Git 사용법</a>
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/%EC%9A%A9%EC%96%B4%20%EC%A0%95%EB%A6%AC/GIT%20%EC%9A%A9%EC%96%B4%20%EC%A0%95%EB%A6%AC.md#gitmoji-%EC%BB%A8%EB%B2%A4%EC%85%98-%EC%98%88%EC%8B%9C">Gitmoji</a>
