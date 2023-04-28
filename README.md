@@ -58,6 +58,11 @@ Itertools / Collection 모듈
 - <a href="https://github.com/ohyuchan123/TIL/blob/main/python/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%EB%8B%B5%EA%B2%8C/%EC%88%9C%EC%97%B4%EA%B3%BC%20%EC%A1%B0%ED%95%A9%20-%20combinations%2Cpermutations.md#%EC%88%9C%EC%97%B4%EA%B3%BC-%EC%A1%B0%ED%95%A9---combinationspermutations">순열과 조합 - combinations,permutations</a>
 - <a href="https://github.com/ohyuchan123/TIL/blob/main/python/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%EB%8B%B5%EA%B2%8C/%EA%B0%80%EC%9E%A5%20%EB%A7%8E%EC%9D%B4%20%EB%93%B1%EC%9E%A5%ED%95%98%EB%8A%94%20%EC%95%8C%ED%8C%8C%EB%B2%B3%20%EC%B0%BE%EA%B8%B0%20-%20Counter.md#%EA%B0%80%EC%9E%A5-%EB%A7%8E%EC%9D%B4-%EB%93%B1%EC%9E%A5%ED%95%98%EB%8A%94-%EC%95%8C%ED%8C%8C%EB%B2%B3-%EC%B0%BE%EA%B8%B0---counter">가장 많이 등장하는 알파벳 찾기 - Counter</a>
 
+기타
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/python/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%EB%8B%B5%EA%B2%8C/for%20%EB%AC%B8%EA%B3%BC%20if%EB%AC%B8%EC%9D%84%20%ED%95%9C%EB%B2%88%EC%97%90%20-%20List%20comprehension%EC%9D%98%20if%EB%AC%B8.md#for-%EB%AC%B8%EA%B3%BC-if%EB%AC%B8%EC%9D%84-%ED%95%9C%EB%B2%88%EC%97%90---list-comprehension%EC%9D%B4-if%EB%AC%B8">for 문과 if문을 한번에 - LIst comprehension이 if문</a>
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/python/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%EB%8B%B5%EA%B2%8C/%EB%91%90%20%EB%B3%80%EC%88%98%EC%9D%98%20%EA%B0%92%20%EB%B0%94%EA%BE%B8%EA%B8%B0%20-%20swap.md#%EB%91%90-%EB%B3%80%EC%88%98%EC%9D%98-%EA%B0%92-%EB%B0%94%EA%BE%B8%EA%B8%B0---swap">두 변수의 값 바꾸기</a>
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/python/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%EB%8B%B5%EA%B2%8C/%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89%ED%95%98%EA%B8%B0%20-%20binary%20search.md#%EC%9D%B4%EC%A7%84-%ED%83%90%EC%83%89%ED%95%98%EA%B8%B0---binary-search">이진 탐색하기 - binary search</a>
+
 ### Kotlin
 - <a href="https://github.com/ohyuchan123/TIL/blob/main/kotlin/Kotlin%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%96%B8%EC%96%B4%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0.md#%EC%BD%94%ED%8B%80%EB%A6%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%96%B8%EC%96%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0">Kotlin 문법 정리</a>
 
