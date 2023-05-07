@@ -150,7 +150,15 @@ Itertools / Collection 모듈
 - <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/web%20%EC%A7%80%EC%8B%9D/%EC%9D%B8%ED%84%B0%EB%84%B7%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%86%B5%EC%8B%A0%20%EA%B8%B0%EC%B4%88.md#-%EC%9D%B8%ED%84%B0%EB%84%B7-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0-%EA%B8%B0%EC%B4%88">인터넷 네트워크 통신 기초(IP/TCP/UDP/PORT/DNS)</a>
 
 **HTTP 지식**  
-**Network 지식**  
+**Network 지식**
+
+<a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/Network/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98%20%EA%B8%B0%EC%B4%88.md#%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98-%EA%B8%B0%EC%B4%88">네트워크의 기초</a>
+- <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/Network/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98%20%EA%B8%B0%EC%B4%88/%EC%B2%98%EB%A6%AC%EB%9F%89%EA%B3%BC%20%EC%A7%80%EC%97%B0%20%EC%8B%9C%EA%B0%84.md#%EC%B2%98%EB%A6%AC%EB%9F%89%EA%B3%BC-%EC%A7%80%EC%97%B0-%EC%8B%9C%EA%B0%84">처리량과 지연 시간</a>
+- <a href="">네트워크 토폴로지와 병목 현상</a>
+- <a href="">네트워크 분류</a>
+- <a href="">네트워크 성능 분석 명령어</a>
+- <a href="">네트워크 프로토콜 표준화</a>
+
 **CS 지식**  
 **IT 용여 지식**
 - <a href="https://github.com/ohyuchan123/TIL/blob/main/Knowledge/Library%20%26%20Framework/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EC%99%80%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md#%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%ACframework%EC%99%80-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AClibrary%EC%9D%98-%EC%B0%A8%EC%9D%B4">프레임워크와 라이브러리의 차이</a>
